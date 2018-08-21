@@ -10,5 +10,9 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
-
+    <string name="dry_skin">건성 피부</string>
+    <string name="oily_skin">지성 피부</string>
+    <string name="normal_skin">중성 피부</string>
+    <string name="combination_skin">복합성 피부</string>
+    <string name="sensitive_skin">민감성 피부</string>
 </resources>

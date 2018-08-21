@@ -47,7 +47,7 @@ public class detailReviewActivity extends AppCompatActivity implements View.OnCl
             //다이어로그를 먼저 만들어낸다.
             AlertDialog.Builder builder=new AlertDialog.Builder(this);
             //이곳에 만드는 다이어로그의 layout을 정한다.
-            View customLayout=View.inflate(this,R.layout.custom_button,null);
+           // View customLayout=View.inflate(this,R.layout.custom_button,null);
         }
     }
 }
