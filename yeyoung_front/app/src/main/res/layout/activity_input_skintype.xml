@@ -12,7 +12,7 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:textColor="@color/text"
-        android:fontFamily="@font/rix_head_b"
+        android:fontFamily="@font/bmjua"
         android:textSize="24sp"
         android:layout_weight="0.1"/>
 
